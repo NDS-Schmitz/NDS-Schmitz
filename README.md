@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A dedicated Full-Stack developer from a suburb of Milwaukee</h3>
+<h3 align="center">A dedicated Full-Stack developer from the greater Milwaukee area</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
