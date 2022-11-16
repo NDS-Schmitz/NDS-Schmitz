@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nds-schmitz&show_icons=true&locale=en&layout=compact" alt="nds-schmitz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nds-schmitz&" alt="nds-schmitz" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NDS-Schmitz&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=2900DD&ring=0019DD&fire=DD2727)](https://git.io/streak-stats)
