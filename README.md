@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nick.d.schmitz@gmail.com**
 
-- ⚡ Fun fact **I was a police officer before deciding to leave to follow my dream of becoming a software enigneer!**
+- ⚡ Fun fact **I was a police officer before deciding to leave to follow my dream of becoming a software enigneer!. Quite the change huh?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
