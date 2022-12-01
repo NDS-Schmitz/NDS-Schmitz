@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **how to always make my code better!**
 
-- 👯 I’m looking to collaborate on **Projects that improve public safety**
+- 👯 I’m looking to collaborate on **Projects that improve public safety and assist those with disabilities**
 
 - 🤝 I’m looking for help with **any projects that will help improve the safety of our first responders.**
 
