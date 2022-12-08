@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Projects that improve public safety and assist those with disabilities**
 
-- 🤝 I’m looking for help with **any projects that will help improve the safety of our first responders.**
+- 🤝 I’m looking for help with **Learning the best ways to make myself a better canidate for your company.**
 
 - 👨‍💻 All of my projects are available at [https://nds-schmitz.netlify.app/](https://nds-schmitz.netlify.app/)
 
