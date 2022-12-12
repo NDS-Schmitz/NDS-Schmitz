@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on pushing code every day! [Code Wars](https://www.codewars.com/users/Nschmitdy)
 
-- 🌱 I’m currently learning **how to always make my code better and more efficient!**
+- 🌱 I’m currently learning **how to always make my code better and more efficient!!**
 
 - 👯 I’m looking to collaborate on **Projects that improve public safety and assist those with disabilities**
 
