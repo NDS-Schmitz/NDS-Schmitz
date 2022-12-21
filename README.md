@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nds-schmitz.netlify.app/](https://nds-schmitz.netlify.app/)
 
-- 💬 Ask me about **Why I am so passionate about helping others!!**
+- 💬 Ask me about **Why I am so passionate about helping others!**
 
 - 📫 How to reach me **nick.d.schmitz@gmail.com**
 
