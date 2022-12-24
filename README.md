@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Learning the best ways to make myself a better canidate for your company.**
 
-- 👨‍💻 All of my projects are available at [https://nds-schmitz.netlify.app/](https://nds-schmitz.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Why I am so passionate about helping others!**
 
