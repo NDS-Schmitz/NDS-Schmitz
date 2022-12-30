@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nds-schmitz&show_icons=true&locale=en&layout=compact" alt="nds-schmitz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nds-schmitz&show_icons=true&locale=en" alt="nds-schmitz" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nds-schmitz&" alt="nds-schmitz" /></p>
