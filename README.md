@@ -29,4 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nds-schmitz&show_icons=true&locale=en&layout=compact" alt="nds-schmitz" /></p>
 
-<a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=DenverCoder1](https://github-readme-streak-stats.herokuapp.com?user=NDS-Schmitz&theme=dark&ring=0E56DD&fire=DD2727&currStreakLabel=F9FFF8)"/></a>
+
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NDS-Schmitz&theme=dark&ring=0E56DD&fire=DD2727&currStreakLabel=F9FFF8)"/></a>
+</p>
